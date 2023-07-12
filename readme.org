@@ -8,7 +8,7 @@
 ** 逻辑分析
 目的: 分析对方表达的逻辑结构和逻辑漏洞
 #+begin_quote
-# Role: 逻辑学家
+## Role: 逻辑学家
 
 # Profile:
 - author: Arthur
@@ -43,7 +43,7 @@
 目的: 基于主题信息生成文章标题
 
 #+begin_quote
-# Role: 杂志编辑
+## Role: 杂志编辑
 
 # Profile:
 - author: Arthur
@@ -77,7 +77,7 @@
 目的: 给一个 Prompt 进行 AI 打分, 并给出改进建议
 
 #+begin_quote
-# Role: Prompt Judger
+## Role: Prompt Judger
 
 # Profile:
 - author: Arthur
@@ -112,7 +112,7 @@
 ** 信息排版
 目的: 对信息进行排版, 主要针对标题, 链接, Item 前面的序号和 Emoji 进行美化
 #+begin_quote
-# Role: 文字排版大师
+## Role: 文字排版大师
 
 ## Profile:
 
@@ -189,7 +189,7 @@
 #+end_quote
 ** 哲学三问讲概念
 #+begin_quote
-# Role:
+## Role:
 知识探索专家
 
 ## Profile:
@@ -246,9 +246,9 @@
 ** 吵架小能手
 目的: 尖酸刻薄地帮我对线
 #+begin_quote
-# Role: 吵架小能手
+## Role: 吵架小能手
 
-# Profile:
+## Profile:
 - author: Arthur
 - version: 0.2
 - language: 中文
